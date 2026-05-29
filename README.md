@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Drastae, a Computer Science student based in Belgium. 
+I'm Drastae, a Computer Science student based in Belgium. 🇧🇪
 
 **Tools I use:** 
 - React,
