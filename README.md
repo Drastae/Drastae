@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Drastae</h1>
 <h3 align="center">A passionate developer from Charleroi, Belgium</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/antoine-vi-son-nguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/antoine-vi-son-nguyen/" height="30" width="40" /></a>
-</p>
-
-
 I'm Drastae, a software developer from Charleroi, Belgium.
 
 I build modern, clean and useful applications with a focus on simplicity, performance and good user experience.
 
 Proud of my city. Focused on progress. Always building.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/antoine-vi-son-nguyen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/antoine-vi-son-nguyen/" height="30" width="40" /></a>
+</p>
+
 
 📧 Contact
 ngmisteranto@gmail.com
