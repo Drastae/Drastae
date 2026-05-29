@@ -1,11 +1,15 @@
 ## Hey there 👋
 
-I'm Drastae, a software developer based in Belgium. 
+I'm **Drastae**, a software developer from **Charleroi, Belgium**.
 
-**Tools I use:** 
-- HTML, CSS, JavaScript
-- React, Typescript, Java,
-- SQL, C#
-- UML, Figma 
+I build modern, clean and useful applications with a focus on simplicity, performance and good user experience.
 
-📧 Contact: **ngmisteranto@gmail.com**
+Proud of my city. Focused on progress. Always building.
+
+### 🚀 Tech Stack
+
+**HTML · CSS · JavaScript · React · TypeScript · Java · C# · SQL · UML · Figma**
+
+### 📧 Contact
+
+**ngmisteranto@gmail.com**
