@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hey there 👋
+
+I'm Drastae, a software developer based in Belgium.
 
 <!--
 **Drastae/Drastae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
