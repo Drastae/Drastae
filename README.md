@@ -1,9 +1,11 @@
 ## Hey there 👋
 
-I'm Drastae, a Computer Science student based in Belgium. 
+I'm Drastae, a software developer based in Belgium. 
 
 **Tools I use:** 
-- React, Typescript
-- Figma 
+- HTML, CSS, JavaScript
+- React, Typescript, Java,
+- SQL, C#
+- UML, Figma 
 
 📧 Contact: **ngmisteranto@gmail.com**
