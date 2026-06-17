@@ -6,8 +6,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Animals/Panda.png" width="120" alt="Panda" />
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" width="120" alt="Panda" />
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Drastae&label=Profile%20views&color=1d71b8&style=for-the-badge" alt="Profile views" />
