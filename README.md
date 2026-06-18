@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d71b8,100:f39200&height=220&section=header&text=Hi,%20I'm%20Drastae&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20from%20Charleroi,%20Belgium%20%E2%80%A2%20Clean%20Code%20%E2%80%A2%20Modern%20Apps&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:065f46,100:14b8a6&height=220&section=header&text=Hi,%20I'm%20Drastae&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20from%20Charleroi,%20Belgium%20%E2%80%A2%20Clean%20Code%20%E2%80%A2%20Modern%20Apps&descAlignY=60&descSize=18" />
 
 <div align="center">
 
@@ -24,7 +24,6 @@ const drastae = {
   name: "Drastae",
   location: "Charleroi, Belgium",
   role: "Software Developer",
-  mindset: ["Clean code", "Performance", "Simplicity", "User experience"],
   currentlyBuilding: "Modern web applications",
   favoriteAnimal: "Panda 🐼",
   motto: "Proud of my city. Focused on progress. Always building."
