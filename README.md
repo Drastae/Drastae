@@ -26,5 +26,6 @@ const drastae = {
   role: "Software Developer",
   currentlyBuilding: "Modern web applications",
   favoriteAnimal: "Panda 🐼",
+  skills: ["HTML", "CSS", "JavaScript", "TypeScript", "Java", "PHP"],
   motto: "Proud of my city. Focused on progress. Always building."
 };
