@@ -45,20 +45,6 @@ const drastae = {
 
 <img width="100%" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Stack&titleAlign=left&align=left&theme=github&showBorder=true&borderRadius=4&fontSize=28&fontWeight=bold&width=780&gap=12&lineHeight=8&lineCount=3&line1=TypeScript,typescript,3178C6;JavaScript,javascript,F7DF1E;HTML5,html5,E34F26;CSS3,css3,1572B6;PHP,php,777BB4&line2=SQL,mysql,4479A1;C%23,csharp,512BD4;C,c,A8B9CC;Java,java,007396;Spring,spring,6DB33F&line3=Markdown,markdown,000000;LaTeX,latex,008080;Figma,figma,F24E1E;ChatGPT,openai,412991;Microsoft%20Copilot,githubcopilot,000000" alt="Stack" />
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Drastae&show_icons=true&theme=transparent&hide_border=true&title_color=1d71b8&icon_color=f39200&text_color=64748b" alt="GitHub stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drastae&layout=compact&theme=transparent&hide_border=true&title_color=1d71b8&text_color=64748b" alt="Top languages" />
-
-</div>
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:1d4ed8,100:dc2626&height=120&section=footer" />
