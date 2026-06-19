@@ -43,7 +43,7 @@ const drastae = {
 
 ## 🧰 Stack
 
-<img width="100%" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Stack&titleAlign=left&align=left&theme=github&showBorder=true&borderRadius=4&fontSize=28&fontWeight=bold&width=780&gap=12&lineHeight=8&lineCount=3&line1=TypeScript,typescript,auto;JavaScript,javascript,auto;HTML5,html5,auto;CSS3,css3,auto;PHP,php,auto&line2=SQL,sqlite,auto;C%23,csharp,auto;C,c,auto;Java,openjdk,auto;Java%20Spring,spring,auto&line3=Markdown,markdown,auto;LaTeX,latex,auto;Figma,figma,auto;ChatGPT,openai,auto;Microsoft%20Copilot,microsoftcopilot,auto" alt="Stack" />
+<img width="100%" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Stack&titleAlign=left&align=left&theme=github&showBorder=true&borderRadius=4&fontSize=28&fontWeight=bold&width=780&gap=12&lineHeight=8&lineCount=3&line1=TypeScript,typescript,3178C6;JavaScript,javascript,F7DF1E;HTML5,html5,E34F26;CSS3,css3,1572B6;PHP,php,777BB4&line2=SQL,mysql,4479A1;C%23,csharp,512BD4;C,c,A8B9CC;Java,java,007396;Spring,spring,6DB33F&line3=Markdown,markdown,000000;LaTeX,latex,008080;Figma,figma,F24E1E;ChatGPT,openai,412991;Microsoft%20Copilot,githubcopilot,000000" alt="Stack" />
 
 ---
 
