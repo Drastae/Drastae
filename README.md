@@ -31,7 +31,7 @@ const drastae = {
   stack: {
     webDevelopment: ["HTML", "CSS", "JavaScript", "TypeScript"],
     backend: ["PHP", "Java", "Java Spring", "C#", "C"],
-    databases: ["SQL"],
+    database: ["SQL"],
     documentation: ["Markdown", "LaTeX"],
     design: ["Figma"],
     aiTools: ["ChatGPT", "Microsoft Copilot"]
@@ -43,57 +43,7 @@ const drastae = {
 
 ## 🧰 Stack
 
-<div align="center">
-
-### Web Development
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark&perline=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,ts&theme=light&perline=4" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark&perline=4" alt="Web development stack" />
-</picture>
-
-<br/><br/>
-
-### Backend & Programming
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,java,spring,cs,c&theme=dark&perline=5" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,java,spring,cs,c&theme=light&perline=5" />
-  <img src="https://skillicons.dev/icons?i=php,java,spring,cs,c&theme=dark&perline=5" alt="Backend and programming stack" />
-</picture>
-
-<br/><br/>
-
-### Database, Documentation & Design
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=md,latex,figma&theme=dark&perline=3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=md,latex,figma&theme=light&perline=3" />
-  <img src="https://skillicons.dev/icons?i=md,latex,figma&theme=dark&perline=3" alt="Documentation and design stack" />
-</picture>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SQL-1D71B8?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/ChatGPT-0f172a?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-<img src="https://img.shields.io/badge/Microsoft%20Copilot-0f172a?style=for-the-badge&logo=microsoftcopilot&logoColor=white" alt="Microsoft Copilot" />
-
-</div>
-
----
-
-## 🛠️ Tools I use
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=light&perline=3" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" alt="Tools" />
-</picture>
-
-</div>
+<img width="100%" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Stack&titleAlign=left&align=left&theme=github&showBorder=true&borderRadius=4&fontSize=28&fontWeight=bold&width=780&gap=12&lineHeight=8&lineCount=3&line1=TypeScript,typescript,auto;JavaScript,javascript,auto;HTML5,html5,auto;CSS3,css3,auto;PHP,php,auto&line2=SQL,sqlite,auto;C%23,csharp,auto;C,c,auto;Java,openjdk,auto;Java%20Spring,spring,auto&line3=Markdown,markdown,auto;LaTeX,latex,auto;Figma,figma,auto;ChatGPT,openai,auto;Microsoft%20Copilot,microsoftcopilot,auto" alt="Stack" />
 
 ---
 
