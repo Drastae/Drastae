@@ -1,10 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:1d4ed8,100:dc2626&height=220&section=header&text=Drastae&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20from%20Charleroi,%20Belgium%20%E2%80%A2%20Bayern%20Fan%20%E2%80%A2%20Panda%20Mindset&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:1d4ed8,100:dc2626&height=220&section=header&text=Drastae&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20from%20Charleroi%20%E2%80%A2%20Bayern%20Fan%20%E2%80%A2%20Panda%20Mindset&descAlignY=60&descSize=18" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=1D71B8&center=true&vCenter=true&width=850&lines=Code+propre.+Interface+claire.+Projet+utile.;Frontend,+backend,+bases+de+donn%C3%A9es.;Calme,+curieux,+pers%C3%A9v%C3%A9rant.;Panda+mindset+%F0%9F%90%BC" alt="Typing SVG" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=1D71B8&center=true&vCenter=true&width=850&lines=Clean+code.+Clear+interfaces.+Useful+projects.;Frontend,+backend,+databases.;Calm,+curious,+persistent.;Panda+mindset+%F0%9F%90%BC" alt="Typing SVG" />
 
 <br/>
 
