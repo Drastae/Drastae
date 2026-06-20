@@ -41,7 +41,7 @@ const drastae = {
 
 ---
 
-## 🐼 Panda-Powered Tech Stack
+## 🧪 My Stack of Chaos
 
 <div align="center">
 
