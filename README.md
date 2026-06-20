@@ -27,15 +27,6 @@ const drastae = {
   location: "Charleroi, Belgium",
   role: "Software Developer",
   favoriteAnimal: "Panda 🐼",
-  mindset: ["calm", "curious", "persistent"],
-  stack: {
-    webDevelopment: ["HTML", "CSS", "JavaScript", "TypeScript"],
-    backend: ["PHP", "Java", "Java Spring", "C#", "C"],
-    database: ["SQL"],
-    documentation: ["Markdown", "LaTeX"],
-    design: ["Figma"],
-    aiTools: ["ChatGPT", "Microsoft Copilot"]
-  }
 };
 ```
 
@@ -56,9 +47,6 @@ const drastae = {
 
 ### 🧰 Tools & Environment
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite&theme=dark" />
-
-### 📚 Currently Learning
-<img src="https://skillicons.dev/icons?i=phaser&theme=dark" />
 
 </div>
 
