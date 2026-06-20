@@ -58,7 +58,7 @@ const drastae = {
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite&theme=dark" />
 
 ### 📚 Currently Learning
-<img src="https://skillicons.dev/icons?i=docker,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=phaser&theme=dark" />
 
 </div>
 
