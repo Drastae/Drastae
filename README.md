@@ -41,6 +41,27 @@ const drastae = {
 
 ---
 
+## 🐼 Panda-Powered Tech Stack
+
+<div align="center">
+
+### 🌐 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap&theme=dark" />
+
+### ⚙️ Backend Development
+<img src="https://skillicons.dev/icons?i=java,spring,php,nodejs&theme=dark" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
+
+### 🧰 Tools & Environment
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vite&theme=dark" />
+
+### 📚 Currently Learning
+<img src="https://skillicons.dev/icons?i=docker,python&theme=dark" />
+
+</div>
+
 
 
 <div align="center">
